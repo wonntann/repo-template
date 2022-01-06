@@ -14,7 +14,7 @@ Use this template for making your default style for repositories.
 - [How To Read This](#how-to-read-this)
 - [About The Project](#about-the-project)
 - [Prerequisites](#prerequisites)
-- [Documentation](#documentation)
+- Documentation
     - [Other md files](./extra.md)
 - [Extra Reading](#extra-reading)
 - [Contributing](#contributing)
