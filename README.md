@@ -16,6 +16,7 @@ Use this template for making your default style for repositories.
 - [Prerequisites](#prerequisites)
 - Documentation
     - [Other md files](./extra.md)
+- [Troubleshooting](#troubleshooting)
 - [Extra Reading](#extra-reading)
 - [Contributing](#contributing)
 - [License](#license)
@@ -25,8 +26,10 @@ Use this template for making your default style for repositories.
 # How To Read This
 Included in this repository are the steps that I took in order to work with VS Code on my different machines. There will be links to the respective documentation for that subject, either open within the repo files or through the **Documentation** section links.
 - If you would like to jump to sections and you are within the GitHub website, locate the **Table of Contents** menu in the upper left of this repo header (and select from the dropdown
+## Reading Command lines
 - Example code may have **~$** or any symbols before the command, do not copy that into your terminal.
 - If there are multiple lines of code, copy each complete line as one respective command, unless told otherwise
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # About The Project
@@ -44,7 +47,8 @@ Outline the needed knowledge, hardware components, software pre-installations...
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+# Troubleshooting
+- If running into permission erros, add **sudo** infront of your commnd
 
 
 # Contributing
