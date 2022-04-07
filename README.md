@@ -68,6 +68,8 @@ Contributions are what make the open source community such an amazing place to l
 # License
 Distributed under the MIT License. See [License](https://github.com/wonntann/repo-template/blob/main/LICENSE) for more information.
 
+File license [here](https://creativecommons.org/licenses/by/4.0/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Contact
